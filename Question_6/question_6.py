@@ -6,7 +6,7 @@ from OpenGL.GLU import *
 
 
 def draw_line(x1, y1, x2, y2):
-    glColor3f(1, 0, 0)  # Red color
+    glColor3f(1, 0, 0) 
 
     glBegin(GL_LINES)
 
