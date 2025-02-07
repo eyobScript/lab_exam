@@ -7,7 +7,7 @@ def main():
 
 
     screen = pygame.display.set_mode((500, 500))
-    pygame.display.set_caption("Entangled Triangles")
+    pygame.display.set_caption("Triangles")
     screen.fill((255, 255, 255))
 
 
